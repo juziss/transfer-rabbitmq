@@ -27,3 +27,10 @@ Execute o script `parser_producer.py` para:
 - Limpar o conteúdo dos artigos
 - Enviar os dados para a fila `artigos`
 
+
+### 3. Consumir mensagens (consumidor)
+
+Execute o script `consumer.py` em um terminal separado para receber e exibir as mensagens da fila:
+
+
+
